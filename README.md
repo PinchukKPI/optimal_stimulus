@@ -7,3 +7,6 @@ can be downloaded from https://elifesciences.org/articles/38841
 
 Figure_data_observation.m
 ![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_data_observation%20LOW_RES.png "Figure_data_observation LOW_RES.png")
+
+Fugire_optimal_stimulus.m 
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_optimal_stimulus%20LOW_RES.png "Fugire_optimal_stimulus LOW_RES.png")
