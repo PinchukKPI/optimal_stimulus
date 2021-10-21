@@ -10,3 +10,6 @@ Figure_data_observation.m
 
 Fugire_optimal_stimulus.m 
 ![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_optimal_stimulus%20LOW_RES.png "Fugire_optimal_stimulus LOW_RES.png")
+
+Figure_STA_filter.m
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_STA_filter%20LOW_RES.png "Figure_STA_filter LOW_RES.png")
