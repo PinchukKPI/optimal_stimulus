@@ -6,10 +6,10 @@ to run you need a source data file 'elife-38841-fig4-data1-v2.mat' from paper "R
 can be downloaded from https://elifesciences.org/articles/38841
 
 Figure_data_observation.m
-![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_data_observation%20LOW_RES.png "Figure_data_observation LOW_RES.png")
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_data_observation%20LOW_RES.png "Figure_data_observation LOW_RES.png")
 
 Fugire_optimal_stimulus.m 
-![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_optimal_stimulus%20LOW_RES.png "Fugire_optimal_stimulus LOW_RES.png")
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_optimal_stimulus%20LOW_RES.png "Fugire_optimal_stimulus LOW_RES.png")
 
 Figure_STA_filter.m
-![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/Figure_STA_filter%20LOW_RES.png "Figure_STA_filter LOW_RES.png")
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_STA_filter%20LOW_RES.png "Figure_STA_filter LOW_RES.png")
