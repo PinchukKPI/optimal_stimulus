@@ -13,3 +13,6 @@ Fugire_optimal_stimulus.m
 
 Figure_STA_filter.m
 ![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_STA_filter%20LOW_RES.png "Figure_STA_filter LOW_RES.png")
+
+Figure_STBM.m
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_STBM%20LOW_RES.png "Figure_STBM LOW_RES.png")
