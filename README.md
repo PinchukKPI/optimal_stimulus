@@ -16,3 +16,6 @@ Figure_STA_filter.m
 
 Figure_STBM.m
 ![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_STBM%20%20LOW_RES.png "Figure_STBM LOW_RES.png")
+
+Figure_explanation.m
+![](https://github.com/PinchukKPI/optimal_stimulus/blob/main/FIGURES/Figure_explanation%20%20LOW_RES.png "Figure_explanation LOW_RES.png")
