@@ -10,8 +10,6 @@ load('elife-38841-fig4-data1-v2.mat')  % data from
 % Maxwell H Turner, Gregory W Schwartz, Fred Rieke
 % DOI: https://doi.org/10.7554/eLife.38841 
 
-%frequency after which to cut off filter spectrum. The stimulus updated at 30
-%Hz, so the cutoff should be below that value to avoid ringing
 cellInd = 2;  % 1-8 Off-center   9 On-center
 
 help_object = CenterSurroundWhiteNoise{cellInd}.stimulus.center; %center
